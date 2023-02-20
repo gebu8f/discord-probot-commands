@@ -4,4 +4,7 @@ Print
 While True
 Input
 If
+Def
+While
 Elif
+Def
