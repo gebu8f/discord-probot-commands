@@ -6,5 +6,14 @@ Input
 If
 Def
 While
+Print
 Elif
 Def
+字典...
+If
+For
+If
+Print
+Else
+Print
+Elif
